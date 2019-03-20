@@ -1,3 +1,5 @@
+image: ubuntu:19.04
+
 test:
   only:
     # e.g.: any_check-X.Y.Z-rc.N, zk-1.15.0
